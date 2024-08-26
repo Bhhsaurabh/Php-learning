@@ -4,9 +4,11 @@
  <?php
  $name = "saurabh";
  echo $name;
- 
- $num = 10*5 ;
- echo "<br>the output is $num"
+//  to decalre a variable use $ this symbol
+ $num = 10*5;
+ echo "<br>the output is $num";
+
+// php is dyanamically types which can retrive data from the database
 
 
  ?>
