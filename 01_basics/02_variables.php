@@ -3,6 +3,7 @@
 
  <?php
  $name = "saurabh";
+ $name = "golu";
  echo $name;
 //  to decalre a variable use $ this symbol
  $num = 10*5;
@@ -10,5 +11,10 @@
 
 // php is dyanamically types which can retrive data from the database
 
+// constant in php which values can not be changed
 
+const name2 = "Saurabh kumar";
+//name2 = "hello"; we can not change constant
+
+echo name2;
  ?>
