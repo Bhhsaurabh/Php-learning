@@ -15,6 +15,11 @@
 
 const name2 = "Saurabh kumar";
 //name2 = "hello"; we can not change constant
+echo name2 ;
+echo "<br>";
 
-echo name2;
+// you can also decalre const with define function
+
+define("name3","saurabh 3");
+echo name3;
  ?>
